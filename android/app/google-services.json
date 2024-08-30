@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649573755380",
+    "project_id": "safe-codes-5e26e",
+    "storage_bucket": "safe-codes-5e26e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649573755380:android:c2c5313553ac9094fe31a1",
+        "android_client_info": {
+          "package_name": "com.example.safes_code"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb7B7ZXTUU7tU3gSux78_FQuKpswm-sbw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
